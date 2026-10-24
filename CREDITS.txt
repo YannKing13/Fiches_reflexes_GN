@@ -1,0 +1,1 @@
+Catalogue de vehicules supplementaire : Vehicle data by VehiclesDB (https://vehiclesdb.com), licence CC BY 4.0, snapshot 2026.10.3. Donnees telechargees dans le navigateur a la premiere utilisation, non incluses dans ce ZIP. Donnees de marques/modeles sans localisation de VIN.
