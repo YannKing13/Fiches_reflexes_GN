@@ -1,3 +1,7 @@
 Catalogue de vehicules supplementaire : Vehicle data by VehiclesDB (https://vehiclesdb.com), licence CC BY 4.0, snapshot 2026.10.3. Donnees telechargees dans le navigateur a la premiere utilisation, non incluses dans ce ZIP. Donnees de marques/modeles sans localisation de VIN.
 
 V22 — module PV de transport et constatations (cambriolage), modèle anonymisé reconstruit sans identité ni photographie provenant du document fourni. Export ODT local, sans serveur ni bibliothèque distante.
+
+V23 : Rédaction narrative et mise en forme proche du procès-verbal anonymisé transmis. Textes et photos d’origine exclus.
+
+V24 : matrice anonymisée reconstruite depuis le fichier ODT transmis par l’utilisateur. Les styles du PV original ont été conservés, mais aucun nom, objet, contact, photographie ou numéro de procédure du modèle d’exemple n’a été inclus dans ce ZIP public.
